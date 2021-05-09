@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="make item purchase" skipped="0" tests="1" time="48.64" timestamp="2021-05-05 12:02:04"><testcase name="Buy items"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepdefinitions.InicioAutomatizacioStepDefeinitions.customerSelectsItmesToBuy(InicioAutomatizacioStepDefeinitions.java:48)&#13;
+✽.Customer selects 3 items from Mascarilla KN95 buy in to the category Beauty and Health(src/test/resources/features/InicioAutomatizacion.feature:20)&#13;
+</system-err></testcase></testsuite>

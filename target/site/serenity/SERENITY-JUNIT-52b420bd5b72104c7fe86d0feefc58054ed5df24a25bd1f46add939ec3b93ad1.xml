@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Crear y elimimar registros" skipped="0" tests="1" time="96.7" timestamp="2021-05-08 02:37:42"><testcase name="Eliminar Registro"><failure message="No encontrado" type="java.lang.AssertionError">No encontrado</failure><system-err>No encontrado&#13;
+stepdefinitions.AutomatizaciosqaStepDefinitions.elVisualizaElMensajeSuccessDelete(AutomatizaciosqaStepDefinitions.java:66)&#13;
+✽.el visualiza el mensaje success delete(src/test/resources/features/Automatizacionsqa.feature:33)&#13;
+</system-err></testcase></testsuite>
